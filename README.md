@@ -28,6 +28,8 @@
 
 ---
 
+>Download >>
+***[點我下載編譯EXE執行檔~](https://github.com/JeffWen0105/Linux_multi_sftp_tool/releases)***
 
 
 
